@@ -31,7 +31,7 @@ public class ScreenshotTest {
 		TakesScreenshot ts=driver;
 		File src=ts.getScreenshotAs(OutputType.FILE);
 		
-		String RM=RandomString.make(4);
+		String RM=RandomString.make(3); // trea1 ,ioe
 		File destn=new File("C:\\Users\\Dell\\Desktop\\Visionfolder\\Batch_18_AutomationTest\\"+RM+".png");
 		FileUtils.copyFile(src, destn);
 		
