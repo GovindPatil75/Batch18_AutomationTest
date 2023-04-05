@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-05T09:30:29 IST" name="Suite" finished-at="2023-04-05T09:30:42 IST" duration-ms="12712">
+    <groups>
+    </groups>
+    <test started-at="2023-04-05T09:30:29 IST" name="Test" finished-at="2023-04-05T09:30:42 IST" duration-ms="12712">
+      <class name="com.Test_1.Test_testng_1">
+        <test-method is-config="true" signature="BS()[pri:0, instance:com.Test_1.Test_testng_1@5e600dd5]" started-at="2023-04-05T09:30:29 IST" name="BS" finished-at="2023-04-05T09:30:29 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BS -->
+        <test-method is-config="true" signature="BT()[pri:0, instance:com.Test_1.Test_testng_1@5e600dd5]" started-at="2023-04-05T09:30:29 IST" name="BT" finished-at="2023-04-05T09:30:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method is-config="true" signature="BC()[pri:0, instance:com.Test_1.Test_testng_1@5e600dd5]" started-at="2023-04-05T09:30:42 IST" name="BC" finished-at="2023-04-05T09:30:42 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:com.Test_1.Test_testng_1@5e600dd5]" started-at="2023-04-05T09:30:42 IST" name="BM" finished-at="2023-04-05T09:30:42 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="Test_1()[pri:0, instance:com.Test_1.Test_testng_1@5e600dd5]" started-at="2023-04-05T09:30:42 IST" name="Test_1" finished-at="2023-04-05T09:30:42 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_1 -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:com.Test_1.Test_testng_1@5e600dd5]" started-at="2023-04-05T09:30:42 IST" name="AM" finished-at="2023-04-05T09:30:42 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method signature="Test_2()[pri:0, instance:com.Test_1.Test_testng_1@5e600dd5]" started-at="2023-04-05T09:30:42 IST" name="Test_2" finished-at="2023-04-05T09:30:42 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_2 -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:com.Test_1.Test_testng_1@5e600dd5]" started-at="2023-04-05T09:30:42 IST" name="BM" finished-at="2023-04-05T09:30:42 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:com.Test_1.Test_testng_1@5e600dd5]" started-at="2023-04-05T09:30:42 IST" name="AM" finished-at="2023-04-05T09:30:42 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method is-config="true" signature="AC()[pri:0, instance:com.Test_1.Test_testng_1@5e600dd5]" started-at="2023-04-05T09:30:42 IST" name="AC" finished-at="2023-04-05T09:30:42 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC -->
+        <test-method is-config="true" signature="AT()[pri:0, instance:com.Test_1.Test_testng_1@5e600dd5]" started-at="2023-04-05T09:30:42 IST" name="AT" finished-at="2023-04-05T09:30:42 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT -->
+        <test-method is-config="true" signature="AS()[pri:0, instance:com.Test_1.Test_testng_1@5e600dd5]" started-at="2023-04-05T09:30:42 IST" name="AS" finished-at="2023-04-05T09:30:42 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS -->
+      </class> <!-- com.Test_1.Test_testng_1 -->
+      <class name="com.Test_1.Test_testng_2">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Test_1.Test_testng_2@7c711375]" started-at="2023-04-05T09:30:29 IST" name="setup" finished-at="2023-04-05T09:30:34 IST" duration-ms="4364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_1()[pri:0, instance:com.Test_1.Test_testng_2@7c711375]" started-at="2023-04-05T09:30:34 IST" name="test_1" finished-at="2023-04-05T09:30:34 IST" duration-ms="517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Test_1.Test_testng_2@7c711375]" started-at="2023-04-05T09:30:34 IST" name="tearDown" finished-at="2023-04-05T09:30:35 IST" duration-ms="817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Test_1.Test_testng_2@7c711375]" started-at="2023-04-05T09:30:35 IST" name="setup" finished-at="2023-04-05T09:30:41 IST" duration-ms="5866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_2()[pri:0, instance:com.Test_1.Test_testng_2@7c711375]" started-at="2023-04-05T09:30:41 IST" name="test_2" finished-at="2023-04-05T09:30:41 IST" duration-ms="395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Test_1.Test_testng_2@7c711375]" started-at="2023-04-05T09:30:41 IST" name="tearDown" finished-at="2023-04-05T09:30:42 IST" duration-ms="697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Test_1.Test_testng_2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
