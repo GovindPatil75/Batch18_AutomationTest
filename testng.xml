@@ -4,7 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="com.Test_1.Test_testng_2"/>
-     <class name="com.Test_1.Test_testng_1"/>
+      <class name="com.Test_1.Test_testng_1"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
