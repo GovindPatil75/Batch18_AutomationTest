@@ -27,10 +27,10 @@ public class AlertHandleTest {
      WebElement btn_submit=driver.findElement(By.xpath("//input[@name='submit']"));
      btn_submit.click();
      
-//     handleAlert(driver).getText();
-//     handleAlert(driver).accept(); 
-//     handleAlert(driver).dismiss();
-//     
+     handleAlert(driver).getText();
+     handleAlert(driver).accept(); 
+     handleAlert(driver).dismiss();
+     
      
 //      Alert Handle 
      Alert alt=driver.switchTo().alert();
